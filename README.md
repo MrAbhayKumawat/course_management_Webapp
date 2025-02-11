@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://course-hub-learning.netlify.app)
+[View Live Demo](https://bejewelled-liger-c0a55e.netlify.app/)
 
 ## 📝 Description
 
@@ -108,9 +108,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/MrAbhayKumawat)
+- LinkedIn: [Your Name](https://linkedin.com/in/mrabhaykumawat)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/course-hub/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/MrAbhayKumawat/course_management_Webapp).
